@@ -1,0 +1,29 @@
+{
+    "Iphone":[
+{
+    "Model":"iphone11pro",
+    "Storage":64,
+    "Cost":1899
+},
+{
+    "Model":"iphone11proMax",
+    "Storage":64,
+    "Cost":1899
+},
+{
+    "Model":"iphone11",
+    "Storage":64,
+    "Cost":1299
+},
+{
+    "Model":"iphone11",
+    "Storage":128,
+    "Cost":1399
+},
+{
+    "Model":"iphoneSE",
+    "Storage":128,
+    "Cost":899
+}
+]
+}
